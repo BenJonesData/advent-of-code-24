@@ -1,2 +1,3 @@
 # advent-of-code-24
-Welcome to my solutions for Advent of Code 2024. All solutions are written in Python and presented in notebooks. I am using this as an opportunity to improve my Python practices therefore I am aiming for my solutions to be as efficient as possible (within my abilities). Please reach out to me via email (BenJones1479@gmail.com) or [LinkedIn](https://www.linkedin.com/in/benjonesdata/) if you wish to discuss! 
+
+Welcome to my Advent of Code 2024 solutions, written in Python and presented in notebooks. I’m using this challenge to refine my Python skills, focusing on efficiency and clean practices. Feel free to connect with me via email (BenJones1479@gmail.com) or [LinkedIn](https://www.linkedin.com/in/benjonesdata/) to discuss!
